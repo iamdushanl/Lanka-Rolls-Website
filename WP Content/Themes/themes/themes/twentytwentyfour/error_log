@@ -1,0 +1,24 @@
+[26-Nov-2025 06:58:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nisazarr/lankarolls.lk/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/nisazarr/lankarolls.lk/wp-content/themes/twentytwentyfour/functions.php on line 147
+[30-Nov-2025 15:37:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nisazarr/lankarolls.lk/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/nisazarr/lankarolls.lk/wp-content/themes/twentytwentyfour/functions.php on line 147
+[09-Dec-2025 09:18:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nisazarr/lankarolls.lk/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/nisazarr/lankarolls.lk/wp-content/themes/twentytwentyfour/functions.php on line 147
+[15-Dec-2025 07:37:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nisazarr/lankarolls.lk/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/nisazarr/lankarolls.lk/wp-content/themes/twentytwentyfour/functions.php on line 147
+[24-Dec-2025 11:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nisazarr/lankarolls.lk/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/nisazarr/lankarolls.lk/wp-content/themes/twentytwentyfour/functions.php on line 147
+[03-Jan-2026 00:11:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nisazarr/lankarolls.lk/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/nisazarr/lankarolls.lk/wp-content/themes/twentytwentyfour/functions.php on line 147
